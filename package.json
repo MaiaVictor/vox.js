@@ -1,5 +1,5 @@
 {
-  "name": "vox.js",
+  "name": "taelinarena-vox.js",
   "version": "1.1.0",
   "description": "parse MagicaVoxel .vox file on JavaScript",
   "homepage": "https://github.com/daishihmr/vox.js",

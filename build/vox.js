@@ -243,7 +243,6 @@ var vox = {};
     
     var parseVersionNumber = function(dataHolder) {
         var ver = dataHolder.parseInt32();
-        console.info(".vox format version " + ver);
     };
     
     var parseChunk = function(dataHolder) {
